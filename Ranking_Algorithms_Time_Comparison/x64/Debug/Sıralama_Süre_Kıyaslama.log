@@ -1,0 +1,5 @@
+﻿  Sıralama_Süre_Kıyaslama.cpp
+C:\Users\hakki\OneDrive\Desktop\Ranking_Algorithms_Time_Comparison-main\Sıralama_Süre_Kıyaslama.cpp(200,12): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+C:\Users\hakki\OneDrive\Desktop\Ranking_Algorithms_Time_Comparison-main\Sıralama_Süre_Kıyaslama.cpp(307,40): warning C4554: '|': olası hata için işleç önceliğini denetleyin; önceliği netleştirmek için parantez kullanın
+C:\Users\hakki\OneDrive\Desktop\Ranking_Algorithms_Time_Comparison-main\Sıralama_Süre_Kıyaslama.cpp(198,13): warning C4101: 'secim': yerel değişken başvurusu kaldırıldı
+  Sıralama_Süre_Kıyaslama.vcxproj -> C:\Users\hakki\OneDrive\Desktop\Ranking_Algorithms_Time_Comparison-main\x64\Debug\Sıralama_Süre_Kıyaslama.exe
